@@ -1,4 +1,5 @@
-[{"first_name":"Donn","age":81,"dob":"1/23/2021","salary":54,"dept":"furl.net"},
+{
+ "user":[{"first_name":"Donn","age":81,"dob":"1/23/2021","salary":54,"dept":"furl.net"},
 {"first_name":"Wat","age":33,"dob":"10/24/2020","salary":70,"dept":"ovh.net"},
 {"first_name":"Penelopa","age":35,"dob":"4/26/2021","salary":14,"dept":"merriam-webster.com"},
 {"first_name":"Darren","age":32,"dob":"4/26/2021","salary":42,"dept":"gnu.org"},
@@ -12,5 +13,5 @@
 {"first_name":"Devinne","age":8,"dob":"1/12/2021","salary":98,"dept":"php.net"},
 {"first_name":"Georgeanna","age":78,"dob":"2/10/2021","salary":20,"dept":"vimeo.com"},
 {"first_name":"Durand","age":9,"dob":"10/17/2020","salary":21,"dept":"house.gov"},
-{"first_name":"Hyacinthia","age":66,"dob":"8/5/2020","salary":100,"dept":"hexun.com"}
- ]
+{"first_name":"Hyacinthia","age":66,"dob":"8/5/2020","salary":100,"dept":"hexun.com"}]
+}
